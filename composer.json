@@ -1,0 +1,13 @@
+{
+    "name": "test/phpmailer",
+    "description": "Esta es una prueba de envio de email",
+    "authors": [
+        {
+            "name": "Jhon Insuasti",
+            "email": "jhoninzaghi1@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
